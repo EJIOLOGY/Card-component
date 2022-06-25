@@ -172,6 +172,7 @@ a:active {
         text-align: center;
         color: hsl(277, 64%, 61%);
         margin-top: 20px;
+        font-weight: 0px;
     }
 }
 
