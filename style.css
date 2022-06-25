@@ -97,12 +97,13 @@ table {
     header h1 {
         font-size: 28.3px;
         text-align: center;
+        line-height: 1.2em;
     }
     .text-container {
         width: auto;
         height: 600px;
         background-color: hsl(244, 38%, 16%);
-        padding: 80px 100px 50px 80px;
+        padding: 60px 80px 50px 60px;
     }
     .text-container p {
         text-align: center;
@@ -111,6 +112,7 @@ table {
     .stat h2 {
         font-size: 20px;
         font-weight: 0;
+        line-height: 1.5em;
     }
     table {
         display: none;
