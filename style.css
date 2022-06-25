@@ -169,10 +169,11 @@ a:active {
     }
     .attribution {
         font-size: 14px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
         text-align: center;
         color: hsl(277, 64%, 61%);
         margin-top: 20px;
-        font-weight: 0px;
+        font-weight: 100px;
     }
 }
 
