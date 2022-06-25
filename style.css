@@ -86,7 +86,7 @@ table {
 
 @media(max-width:600px) {
     #main-container {
-        display: block;
+        flex-wrap: wrap-reverse;
         width: 90vw;
         height: 900px;
         margin: 50px auto 50px auto;
