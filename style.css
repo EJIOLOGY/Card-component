@@ -18,7 +18,7 @@ body {
 }
 
 span {
-    color: hsl(277, 64%, 61%);
+    color: hsl(277, 64%, 61%)
 }
 
 h1 {
@@ -64,8 +64,9 @@ section {
     border: 0.5px light hsl(277, 64%, 61%);
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
-    background-color: hsl(277, 64%, 61%);
     overflow: hidden;
+    background: linear-gradient(rgba(170, 92, 219, 0.5), rgba(170, 92, 219, 0.5)), url(images/image-header-desktop.jpg);
+    background-size: cover;
 }
 
 .img {
@@ -108,7 +109,7 @@ a:active {
 .attribution {
     font-size: 14px;
     text-align: center;
-    color: hsl(228, 45%, 44%);
+    color: hsl(277, 64%, 61%);
 }
 
 @media(max-width:600px) {
@@ -153,19 +154,16 @@ a:active {
     /* Mobile Layout*/
     #image-container {
         width: 100%;
-        height: auto;
+        height: 300px;
         border: 0.5px light hsl(277, 64%, 61%);
         border-top-right-radius: 0px;
         border-bottom-right-radius: 0px;
-        background-color: hsl(277, 64%, 61%);
         overflow: hidden;
+        background: linear-gradient(rgba(170, 92, 219, 0.5), rgba(170, 92, 219, 0.5)), url(images/image-header-mobile.jpg);
+        background-size: cover;
     }
     .img {
         display: none;
-    }
-    .imgMobile {
-        width: 100%;
-        height: 300px;
     }
     .attribution {
         font-size: 14px;
