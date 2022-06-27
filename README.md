@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]( https://ejiology.github.io/Card-component)
-- Live Site URL: [Add live site URL here]( https://ejiology.github.io/Card-component)
+- Solution URL: [Ejiology.io]( https://ejiology.github.io/Card-component)
+- Live Site URL: [Ejiology.com]( https://ejiology.github.io/Card-component)
 
 ## My process
 
