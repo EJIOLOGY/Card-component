@@ -159,7 +159,7 @@ a:active {
         border-top-right-radius: 0px;
         border-bottom-right-radius: 0px;
         overflow: hidden;
-        background: linear-gradient(rgba(170, 92, 219, 0.5), rgba(170, 92, 219, 0.5)), url('images/image-header-mobile.jpg');
+        background: linear-gradient(rgba(170, 92, 219, 0.5), rgba(170, 92, 219, 0.5)), url('Images/image-header-mobile.jpg');
         background-size: cover;
     }
     .img {
